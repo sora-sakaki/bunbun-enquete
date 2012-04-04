@@ -1,0 +1,17 @@
+<?php
+
+// twitter
+$consumer_key = '';
+$consumer_secret = '';
+
+// basic
+$rootURL = '';
+
+// mysq;
+$mysql_server = '';
+$mysql_database = '';
+$mysql_user = '';
+$mysql_pass = '';
+
+// debug
+

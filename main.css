@@ -1,0 +1,40 @@
+#main {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-size: 50px;
+}
+.sub {
+	font-size: 12px;
+}
+
+.qes {
+	display: block;
+	font-size: 13px;
+	font-weight: bold;
+	border-top: double 2px #E01010;
+	border-bottom: double 2px #E01010;
+	padding-bottom: 2px;
+	padding-top: 3px;
+	padding-left: 3px;
+}
+.ans {
+	font-size: 13px;
+}
+.desc{
+	font-size: 10px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 3px;
+}
+.count{
+	font-size: 8px;
+	color: #777777;
+}
+.readtext{
+	font-size: 9px;
+	/*color: #777777;*/
+	color: #000000;
+}
